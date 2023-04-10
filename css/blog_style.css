@@ -25,13 +25,14 @@ body {
 
 .blog_divider {
   padding: 20px;
-  float: left;
 }
 
 .blog_entries {
   border: 1px solid black;
   border-collapse: collapse;
-  float: left;
+  padding-left: auto;
+  padding-right: auto;
+  text-decoration: none;
 }
 
 .blog_thumbnail {
@@ -46,6 +47,7 @@ body {
   font-size: 24px;
   color: black;
   font-family: 'Tahoma', sans-serif;
+  text-decoration: none;
 }
 
 .blog_table {
@@ -111,6 +113,12 @@ th {
     height: 325px;
   } 
 
+  .blog_entries {
+    border: 1px solid black;
+    border-collapse: collapse;
+    float: left;
+  }
+
   .blog_table {
     margin-top: 50px;
     margin-left: auto;
@@ -138,7 +146,20 @@ th {
     margin-left: auto;
     margin-right: auto;
   }
+  
+  .blog_description {
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    font-family: 'Tahoma', sans-serif;
+    text-decoration: none;
+  }
 
+  .blog_divider {
+    padding: 20px;
+    float: left;
+  }
+  
   th {
     text-align: center;
     padding: 50px;
