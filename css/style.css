@@ -1,73 +1,43 @@
 body {
   background-color: rgb(244, 244, 244);
+  margin: 0;
 }
 
 .navbar {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
   overflow: hidden;
-  border-bottom: 2px solid black;
+  position: fixed;
+  top: 0;
+  list-style-type: none;
+  margin: auto;
+  background-color: rgb(0, 0, 0);
+  width: 100%;
 }
 
-.tablist {
+.navbar a {
   float: left;
-}
-
-.iconlist {
-  float: right;
-  font-size: 48px;
-  padding: 12px 24px;
-}
-
-.tabs {
   display: block;
-  color: black;
-  text-align: center;
-  padding: 28px 26px;
+  color: rgb(255, 255, 255);
+  padding: 16px 11px;
   text-decoration: none;
-  font-size: 26px;
+  font-size: 18px;
   font-family: 'Tahoma', sans-serif;
 }
 
-.fa {
-  border-radius: 20%;
-  font-size: 32px;
-  padding: 12px 12px;
-  text-decoration: none;
-}
+.image {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 64px;
+  padding-bottom: 12px;
+  display: flex;
+  justify-content: center;
 
-.fa-twitter {
-  font-size: 24px;
-  background: #55ACEE;
-  color: white;
-}
-.fa-instagram {
-  font-size: 24px;
-  background: linear-gradient(to bottom left, rgb(199, 2, 169),red,orange, yellow);
-  color: white;
-}
-.fa-linkedin {
-  font-size: 24px;
-  background: rgb(13, 75, 209);
-  color: white;
-}
-
-.fa:hover {
-  opacity: 0.7;
-}
+} 
 
 img {
-  height: 500px;
+  height: 375px;
   width: auto;
   display: block;
   border: 2px solid black;
-  float: left;
-}
-
-.image {
-  padding-top: 60px;
-  padding-left: 60px;
 }
 
 .heading {
@@ -79,12 +49,69 @@ img {
 
 .about {
   overflow: hidden;
-  padding-top: 16px;
-  padding-left: 92px;
-  padding-right: 128px;
-  line-height: 1.6;
-  font-size: 22px;
+  line-height: 2;
+  font-size: 16px;
   display: block;
   font-family: georgia, serif;
   text-align: justify;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+@media (min-width: 900px) 
+{
+  body {
+    background-color: rgb(244, 244, 244);
+    margin: 0;
+  }
+
+  .navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    list-style-type: none;
+    margin: auto;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+  } 
+
+  .navbar a {
+    float: left;
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 32px;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'Tahoma', sans-serif;
+  }
+
+  .about {
+    overflow: hidden;
+    padding-left: 92px;
+    padding-top: 128px;
+    padding-right: 128px;
+    line-height: 1.6;
+    font-size: 22px;
+    font-family: georgia, serif;
+    text-align: justify;
+  }
+
+  .image {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 32px;
+    padding-right: 20px;
+    display: flex;
+    float: left;
+  } 
+  
+  img {
+    height: 475px;
+    width: auto;
+    display: block;
+    border: 2px solid black;
+  }
 }

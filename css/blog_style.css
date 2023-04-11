@@ -32,7 +32,6 @@ body {
   border-collapse: collapse;
   padding-left: auto;
   padding-right: auto;
-  text-decoration: none;
 }
 
 .blog_thumbnail {
@@ -47,7 +46,6 @@ body {
   font-size: 24px;
   color: black;
   font-family: 'Tahoma', sans-serif;
-  text-decoration: none;
 }
 
 .blog_table {
@@ -86,6 +84,11 @@ th {
 
 @media (min-width: 900px) 
 {
+  body {
+    background-color: rgb(244, 244, 244);
+    margin: 0;
+  }
+
   .navbar {
     overflow: hidden;
     position: fixed;
@@ -109,11 +112,12 @@ th {
   }
 
   .blog_thumbnail {
-    width: 450px;
-    height: 325px;
+    width: 425px;
+    height: 300px;
   } 
 
   .blog_entries {
+    margin-top: 26px;
     border: 1px solid black;
     border-collapse: collapse;
     float: left;
