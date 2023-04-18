@@ -38,6 +38,7 @@ img {
   width: auto;
   display: block;
   border: 2px solid black;
+  border-radius: 20px;
 }
 
 .heading {
@@ -113,5 +114,6 @@ img {
     width: auto;
     display: block;
     border: 2px solid black;
+    border-radius: 20px;
   }
 }
