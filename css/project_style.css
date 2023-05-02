@@ -24,9 +24,9 @@ body {
   }
 
   table {
-    float: left;
-    margin-top: 150px;
-    margin-left: 28px;
+    margin-top: 64px;
+    margin-left: auto;
+    margin-right: auto;
     border: 1px solid black;
     border-radius: 20px; 
     background-color: black;
@@ -40,8 +40,20 @@ body {
   }
 
   img {
+    margin-right: 20px;
     border-radius: 20px; 
     width: 450px;
+    height: 325px;
+  }
+
+  .link {
+    color: white;
+    text-decoration: underline;
+  }
+
+  h1 {
+    font-size: 32px;
+    font-family: 'Tahoma', sans-serif;
   }
   
   @media (min-width: 900px) 
