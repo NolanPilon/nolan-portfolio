@@ -30,20 +30,21 @@ body {
     border: 1px solid black;
     border-radius: 20px; 
     background-color: black;
-    width: 1250px;
+    width: auto;
     display: block;
   }
 
   td {
     color: white;
-    font-size: 24px;
+    font-size: 16px;
   }
 
   img {
+    float: left;
     margin-right: 20px;
     border-radius: 20px; 
-    width: 450px;
-    height: 325px;
+    width: 275px;
+    height: 225px;
   }
 
   .link {
@@ -52,7 +53,7 @@ body {
   }
 
   h1 {
-    font-size: 32px;
+    font-size: 16px;
     font-family: 'Tahoma', sans-serif;
   }
   
@@ -82,6 +83,39 @@ body {
       padding: 14px 32px;
       text-decoration: none;
       font-size: 24px;
+      font-family: 'Tahoma', sans-serif;
+    }
+    
+    table {
+      margin-top: 64px;
+      margin-left: auto;
+      margin-right: auto;
+      border: 1px solid black;
+      border-radius: 20px; 
+      background-color: black;
+      width: 1250px;
+      display: block;
+    }
+  
+    td {
+      color: white;
+      font-size: 24px;
+    }
+  
+    img {
+      margin-right: 20px;
+      border-radius: 20px; 
+      width: 450px;
+      height: 325px;
+    }
+  
+    .link {
+      color: white;
+      text-decoration: underline;
+    }
+  
+    h1 {
+      font-size: 32px;
       font-family: 'Tahoma', sans-serif;
     }
   }
