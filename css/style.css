@@ -38,7 +38,6 @@ img {
   width: auto;
   display: block;
   border: 2px solid black;
-  border-radius: 20px;
 }
 
 .heading {
@@ -57,6 +56,18 @@ img {
   text-align: justify;
   padding-left: 18px;
   padding-right: 18px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Tahoma', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ .link {
+  padding: 16px 11px;
+  color: white;
 }
 
 @media (min-width: 900px) 
@@ -88,21 +99,31 @@ img {
     font-family: 'Tahoma', sans-serif;
   }
 
+  h1 {
+    text-align: left;
+    font-family: 'Tahoma', sans-serif;
+  }
+
   .about {
     overflow: hidden;
     padding-left: 92px;
     padding-top: 128px;
-    padding-right: 128px;
+    padding-right: 228px;
     line-height: 1.6;
     font-size: 22px;
     font-family: georgia, serif;
     text-align: justify;
   }
 
+  .link {
+    padding: 16px 11px;
+    color: white;
+  }
+
   .image {
     margin-left: auto;
     margin-right: auto;
-    padding-top: 10px;
+    padding-top: 48px;
     padding-bottom: 32px;
     padding-right: 20px;
     display: flex;
@@ -110,10 +131,9 @@ img {
   } 
 
   img {
-    height: 475px;
+    height: 755px;
     width: auto;
     display: block;
     border: 2px solid black;
-    border-radius: 20px;
   }
 }
