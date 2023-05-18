@@ -10,7 +10,7 @@ defineProps({
 </script>
 
 <template>
-    <router-link :to="link" class="bg-white border border-gray-200 rounded-3xl flex flex-col mb-8 dark:bg-gray-800 dark:border-gray-700 hover:brightness-95 dark:hover:opacity-75 transition-all duration-300">
+    <router-link :to="link" class="bg-secondary border border-secondary rounded-3xl flex flex-col mb-8 hover:brightness-95 dark:hover:opacity-75 transition-all duration-300">
         <img :src="image" alt="" class="rounded-t-3xl aspect-video object-cover">
         <div class="p-8 h-full flex flex-col justify-between">
             <div>

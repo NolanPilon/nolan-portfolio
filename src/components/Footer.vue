@@ -5,7 +5,7 @@ import Plaque from './Plaque.vue';
 <template>
     <footer>
         <div class="container mx-auto">
-            <div class="border-t border-gray-200 dark:border-gray-700 mt-8 py-8">
+            <div class="border-t border-primary mt-8 py-8">
                 <div class="text-center sm:flex items-center justify-between mb-8">
                     <p class="mb-4">&copy; Copyright {{ new Date().getFullYear() }}, Nolan Pilon</p>
                     <nav class="mb-4">

@@ -19,10 +19,10 @@
             </div>
 
             <nav class="text-center mt-16">
-                <a href="#summary-of-skills" class="inline-block mb-4 px-4 py-2 dark:bg-gray-800 border dark:border-gray-700 rounded-lg mx-2 dark:hover:bg-gray-700 transition-all duration-300 bg-gray-200 border-gray-300 hover:bg-gray-300">Summary of Skills</a>
-                <a href="#skills" class="inline-block mb-4 px-4 py-2 dark:bg-gray-800 border dark:border-gray-700 rounded-lg mx-2 dark:hover:bg-gray-700 transition-all duration-300 bg-gray-200 border-gray-300 hover:bg-gray-300">Skills</a>
-                <a href="#education" class="inline-block mb-4 px-4 py-2 dark:bg-gray-800 border dark:border-gray-700 rounded-lg mx-2 dark:hover:bg-gray-700 transition-all duration-300 bg-gray-200 border-gray-300 hover:bg-gray-300">Education</a>
-                <a href="#work-experience" class="inline-block mb-4 px-4 py-2 dark:bg-gray-800 border dark:border-gray-700 rounded-lg mx-2 dark:hover:bg-gray-700 transition-all duration-300 bg-gray-200 border-gray-300 hover:bg-gray-300">Work Experience</a>
+                <a href="#summary-of-skills" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-300 bg-tertiary border-tertiary hover:bg-quaternary">Summary of Skills</a>
+                <a href="#skills" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-30 bg-tertiary border-tertiary hover:bg-quaternary">Skills</a>
+                <a href="#education" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-300 bg-tertiary border-tertiary hover:bg-quaternary">Education</a>
+                <a href="#work-experience" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-300 bg-tertiary border-tertiary hover:bg-quaternary">Work Experience</a>
             </nav>
         </div>
         
@@ -30,7 +30,7 @@
 
             <div id="summary-of-skills" class="mb-16">
                 <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Summary of Skills</h2>
-                <hr class="my-4 border-gray-200 dark:border-gray-800">
+                <hr class="my-4 border-primary">
                 <ul class="list-disc pl-4 text-lg sm:text-xl">
                     <li>Adept in C++ and C# demonstrated through multiple projects provided on my portfolio</li>
                     <li>Strong understanding of memory management and its importance in games</li>
@@ -42,7 +42,7 @@
 
             <div id="skills" class="mb-16">
                 <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Skills</h2>
-                <hr class="my-4 border-gray-200 dark:border-gray-800">
+                <hr class="my-4 border-primary">
                 <ul class="list-disc pl-4 text-lg sm:text-xl">
                     <li>C++, C#, JavaScript, HTML, CSS, Unity, Unity CG, OpenGL, SDL, Python</li>
                     <li>Problem solving</li>
@@ -55,7 +55,7 @@
 
             <div id="education" class="mb-16">
                 <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Education</h2>
-                <hr class="my-4 border-gray-200 dark:border-gray-800">
+                <hr class="my-4 border-primary">
                 <div class="mb-8">
                     <div class="block sm:flex flex-row-reverse justify-between items-center">
                         <h4 class="mb-2 sm:mb-0 text-xl font-light text-center">2021 - May 2023</h4>
@@ -76,7 +76,7 @@
 
             <div id="work-experience" class="mb-16">
                 <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Work Experience</h2>
-                <hr class="my-4 border-gray-200 dark:border-gray-800">
+                <hr class="my-4 border-primary">
                 <div class="mb-8">
                     <div class="block sm:flex flex-row-reverse justify-between items-center">
                         <h4 class="mb-2 sm:mb-0 text-xl font-light text-center">2019 - Summer 2022</h4>

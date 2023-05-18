@@ -2,6 +2,61 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Themes */
+
+.light {
+    /* body background color */
+    --bg-primary: 243, 244, 246;
+    /* card background color */
+    --bg-secondary: 255, 255, 255;
+    /* text color */
+    --text-primary: 0, 0, 0;
+    /* body border */
+    --border-primary: 229, 231, 235;
+    /* card border */
+    --border-secondary: 229, 231, 235;
+    /* main buttons */
+    --border-tertiary: 209, 213, 219;
+    --bg-tertiary: 229, 231, 235;
+    --bg-quaternary: 209, 213, 219;
+}
+
+.dark {
+    /* body background color */
+    --bg-primary: 17, 24, 39;
+    /* card background color */
+    --bg-secondary: 31, 41, 55;
+    /* text color */
+    --text-primary: 209, 213, 219;
+    /* body border */
+    --border-primary: 31, 41, 55;
+    /* card border */
+    --border-secondary: 55, 65, 81;
+    /* main buttons */
+    --border-tertiary: 55, 65, 81;
+    --bg-tertiary: 31, 41, 55;
+    --bg-quaternary: 55, 65, 81;
+}
+
+.coffee {
+    /* body background color */
+    --bg-primary: 223, 204, 175;
+    /* card background color */
+    --bg-secondary: 190, 155, 123;
+    /* text color */
+    --text-primary: 111, 68, 54;
+    /* text hover (not being used) */
+    /*--text-secondary: 133, 68, 66;*/
+    /* body border */
+    --border-primary: 183, 165, 143;
+    /* card border */
+    --border-secondary: 153, 129, 107;
+    /* main buttons */
+    --border-tertiary: 204, 184, 156;
+    --bg-tertiary: 211, 193, 165;
+    --bg-quaternary: 204, 184, 156;
+}
+
 /*
 *, html, body {
     scroll-behavior: smooth !important;
@@ -16,7 +71,7 @@
 }
 
 .markdown hr {
-    @apply my-8 dark:border-gray-700 border-gray-300
+    @apply my-8 border-secondary
 }
 
 .markdown p {

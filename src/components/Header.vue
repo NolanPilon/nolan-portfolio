@@ -6,7 +6,7 @@ import DarkmodeSwitcher from './DarkmodeSwitcher.vue';
 <template>
     <header class="p-4">
         <div class="container mx-auto">
-            <div class="relative px-8 py-0 sm:py-4 rounded-xl bg-white border border-gray-200 dark:bg-gray-800 dark:border-gray-700">
+            <div class="relative px-8 py-0 sm:py-4 rounded-xl bg-secondary border border-secondary">
                 <div class="py-4 absolute top-0 left-8 flex h-full flex-col justify-center">
                     <DarkmodeSwitcher />
                 </div>
