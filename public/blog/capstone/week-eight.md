@@ -11,7 +11,7 @@ By the end of this week, we would like to have the snow level fully polished wit
 
 I wanted to try working on some more visual aspects of the game. Art is a little out of my comfort zone, but I’m proud of what I’ve accomplished so far. I worked on a vignette around the edge of the screen that appears when the player takes damage and slowly fades out over time. This is to help notify the player of when he took damage and gives them an idea of their immunity time.
 
-![vignette image](https://nolanpilon.github.io/images/vignette.webp)
+![vignette image](/assets/blog/capstone/vignette.webp)
 
 I also started work on some decoration for our first level. I added mountains in the background with a parallax effect. I’m planning on adding a layer of trees and other decorations to give more life to our scene.
 
