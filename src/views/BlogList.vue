@@ -23,7 +23,7 @@ document.title = `${blogId.replaceAll("-", " ").replace(/\w\S*/g, function(txt) 
 <template>
     
     <section>
-        <div class="animate__animated animate__fadeIn px-8 sm:px-0 sm:grid grid-cols-3 gap-8">
+        <div class="animate__animated animate__fadeIn mx-8 md:grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <BlogCard v-for="(blog, index) in blogPosts" :key="index" 
                 :link="`/blog/${blogId}/${index}`"
                 :title="blog.title"
