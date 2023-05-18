@@ -1,53 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Home</title>
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
-
-<body>
-  <div>
-    <ul class="navbar">
-      <a href="" class="tabs">About</a>
-      <a href="projects.html">Projects</a>
-      <a href="blog.html" class="tabs">Blog</a>
-      <a href="Resume.pdf" target="_blank" class="tabs">Resume</a>
-      <a href="https://github.com/NolanPilon" target="_blank" class="link"><i class="fa fa-github"></i></a>
-    </ul>
-  </div>
-  <div>
-    <p1 class="about">
-      <div class="image">
-        <img src="images/nolan.jpg" alt="portfolio photo">
-      </div>
-
-      <table>
-        <tr>
-          <h1>Hello!</h1>
-          <td>
-        My name is Nolan and I am a Game Programmer. Growing up, most of my time was spent skateboarding and playing games with friends and siblings.
-        I grew up with the Nintendo GameCube and my most played game was probably Paper Mario: The Thousand Year Door. My love for games is what started my journey to developing my own. 
-        <br><br> 
-        I started off self-taught and watched hundreds of YouTube videos about Scratch, GameMaker Studio, and Unity. 
-        One YouTube channel that I've always had an interest in was Brackeys, and when I heard that they were hosting a Game Jam, I just had to participate.  
-        These are great learning experiences since they get you used to working within a time limit and being limited to a theme.
-        I had so much fun with this, and seeing all the positive comments on my game gave me the extra push I needed to pursue game development as a career.
-        <br><br>
-        I graduated high school as an Ontario Scholar and received my bilingual diploma for French and English.
-        After this, I decided that I wanted to expand my skill set further and study Game Programming full time with a friend at St. Lawrence College in Cornwall, Ontario.
-        During the Covid pandemic, a lot of my classes were held virtually, which led to me gaining experience with working remotely. 
-        I have a lot of experience with C# and the Unity game engine and I am comfortable with many languages including C++, Python, HTML, and CSS.
-        I am also familiar with Git and Github for version control.
-      </td>
-        </tr>
-      </table>
-
-    </p1>
-  </div>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nolan Pilon</title>
+    <meta name="description" content="">
+    <script type="text/javascript">
+      (function(l) {
+        if (l.search[1] === '/' ) {
+          var decoded = l.search.slice(1).split('&').map(function(s) { 
+            return s.replace(/~and~/g, '&')
+          }).join('?');
+          window.history.replaceState(null, null,
+              l.pathname.slice(0, -1) + decoded + l.hash
+          );
+        }
+      }(window.location))
+    </script>
+  </head>
+  <body class="bg-gray-100 text-black dark:bg-gray-900 dark:text-gray-300">
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
 </html>

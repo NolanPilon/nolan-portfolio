@@ -1,0 +1,14 @@
+# Capstone Progress 
+## Week 6
+
+-----
+
+This week was a little slower compared to the other weeks of development. We started off the day by demoing are prototype to James and the other groups. I’ll be honest, it was a bit nerve wracking seeing them boot the game up for the first time. We all put a lot of work into it and hoped that it would be worth it. We let play testers figure out the mechanics on their own. This allows us to make changes and improvements to how the game teaches the player. It took a few minutes, but they would start getting a hang of the parry and launch mechanic. The first roadblock was a barricade that required the player to launch into it at a high enough speed. We used color to indicate what can be broken/attacked and at what speed. After breaching this barricade, we are introduced to the first two enemies. We colored the enemies the same as the barricade to show that you can kill them with the same speed. One bit of criticism we received here was that we threw too much at the player too quick. The ground enemies are quick and aggressive, so having to fight two while also seeing them for the first time is overwhelming. Right now, there is no incentive to killing mobs, so we noticed most players started skipping them. As time went on, players started chaining their parries to clear through the level faster, which is exactly what we wanted. Everyone was very surprised to see that we managed to implement a boss battle at the end of the level. Our goal is to have at least 3 bosses and 3 platforming challenge levels for the finished game.
+
+![map menu image](/assets/blog/capstone/map.webp)
+
+As people finished our demo, we took notes on things to change and improve as we keep developing the game. After demoing everyone’s projects, we planned our next sprint. A lot of our tasks are polishing mechanics, sprite work and level design. I’ve worked with Unity’s Universal Rendering Pipeline in past projects, so I thought it would be a good idea to implement this into our project in case we wanted to play with 2D lighting effects. I also got to play with animations and created an NPC that shows off the parry mechanic by hopping up and down.
+
+![tutorial image](/assets/blog/capstone/tutorial.webp)
+
+In my spare time, I would help Kaleb with the audio manager and we both re learned how instances work. The sounds, art, camera movements, and particles will improve the satisfaction of playing the game and interacting with its’ mechanics. Finally, we were offered to enter our project into an event taking place in Toronto called XPGameSummit. We would be competing against colleges and universities all around Ontario. Although we would have a very little chance of winning anything, I think it would be a great experience for our group.

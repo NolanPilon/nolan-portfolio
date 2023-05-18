@@ -1,0 +1,82 @@
+{
+    "capstone": {
+        "title": "Capstone Progress",
+        "description": "",
+        "image": "/assets/blog/capstone/parrys-quest.webp",
+        "posts": {
+            "week-one": {
+                "title": "Capstone Week 1-2",
+                "description": "",
+                "image": "/assets/blog/capstone/menu.webp"
+            },
+            "week-three": {
+                "title": "Capstone Week 3",
+                "description": "",
+                "image": "/assets/blog/capstone/discord.webp"
+            },
+            "week-four": {
+                "title": "Capstone Week 4",
+                "description": "",
+                "image": "/assets/blog/capstone/box.webp"
+            },
+            "week-five": {
+                "title": "Capstone Week 5",
+                "description": "",
+                "image": "/assets/blog/capstone/splash.webp"
+            },
+            "week-six": {
+                "title": "Capstone Week 6",
+                "description": "",
+                "image": "/assets/blog/capstone/map.webp"
+            },
+            "week-seven": {
+                "title": "Capstone Week 7",
+                "description": "",
+                "image": "/assets/blog/capstone/audio.webp"
+            },
+            "week-eight": {
+                "title": "Capstone Week 8",
+                "description": "",
+                "image": "/assets/blog/capstone/snow.webp"
+            },
+            "week-nine": {
+                "title": "Capstone Week 9",
+                "description": "",
+                "image": "/assets/blog/capstone/levelone.webp"
+            },
+            "week-ten": {
+                "title": "Capstone Week 10",
+                "description": "",
+                "image": "/assets/blog/capstone/entrence.webp"
+            },
+            "week-eleven": {
+                "title": "Capstone Week 11",
+                "description": "",
+                "image": "/assets/blog/capstone/lvl3.webp"
+            },
+            "week-twelve": {
+                "title": "Capstone Week 12",
+                "description": "",
+                "image": "/assets/blog/capstone/desertbackground.webp"
+            },
+            "week-thirteen": {
+                "title": "Capstone Week 13",
+                "description": "",
+                "image": "/assets/blog/capstone/sheriff.webp"
+            },
+            "week-fourteen": {
+                "title": "Capstone Week 14",
+                "description": "",
+                "image": "/assets/blog/capstone/showcasethumb.webp"
+            }
+        }
+    },
+    "future": {
+        "title": "Future Project",
+        "description": "",
+        "image": "/assets/blog/future/blank.jpg",
+        "posts": {
+            
+        }
+    }
+}

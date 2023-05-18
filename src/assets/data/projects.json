@@ -1,0 +1,45 @@
+[
+    {
+        "name": "APART",
+        "image": "apart.webp",
+        "description": "Apart is a co-op puzzle game I made for the 2021 Brackey's Game Jam with the theme: Stronger Together. Your goal is to get both scientists to the end of each level and escape the locked-down facility. It was made in the Unity Game Engine in one week.",
+        "source": "",
+        "link": "https://npilon03.itch.io/apart"
+    }, 
+    {
+        "name": "SKAL",
+        "image": "skal.webp",
+        "description": "Skal is a compilation of micro games similar to the Wario Ware series by Intelligent Systems and Nintendo. Your goal is to get as many drinks as possible by completing mini games themed (mostly) around vikings. It was my entry for My First Game Jam: 2021. This game was developed in Unity C# in two weeks.",
+        "source": "",
+        "link": "https://npilon03.itch.io/skal"
+    }, 
+    {
+        "name": "SDL 2.0 Frogger Game",
+        "image": "frogger.webp",
+        "description": "This game was made using SDL 2.0 and takes inspiration from Frogger. Your goal is to deliver packages to the other side of the factory while avoiding carts and crossing pools of acid. I learned a lot about memory management and object oriented programming while developing this game.",
+        "source": "",
+        "link": ""
+    }, 
+    {
+        "name": "SDL 2.0 Monkey Runner",
+        "image": "monkey.webp",
+        "description": "This game was also made using SDL 2.0 and takes inspiration from Jetpack Joyride by Halfbrick Studios. It is an endless runner where you collect bananas and dodge spears. I learned a lot about controller inputs and more memory management with this project.",
+        "source": "",
+        "link": ""
+    }, 
+    {
+        "name": "OpenXR Demo Project",
+        "image": "vrgraphics.webp",
+        "description": "This is a VR Pokemon styled demo I made with a friend for our final graphics programming project. There isn't much in terms of gameplay but you can throw balls at creatures to add them to your collection. You can keep track of creatures you have collected and spawn balls from your left hand UI. We built this using Unity and OpenXR. We also used Blender for the models.",
+        "source": "https://github.com/NolanPilon/VRGraphicsProject",
+        "link": ""
+    }, 
+    {
+        "name": "Parry's Quest",
+        "image": "parrys-quest.webp",
+        "description": "Parry's Quest is my final project for the Game Programming course at St. Lawrence College. As a group of 5, we had 13 weeks to develop and showcase a game. The project was made in Unity and we used Git for version control. We went through the process of creating a Game Design Document (GDD) and Technical Design Document (TDD). We also held 2 standup meetings every week to stay informed and on track. The final product was showcased at the Level Up game showcase in Toronto. More information can be found in the blog section.",
+        "source": "",
+        "link": "https://npilon03.itch.io/parrys-quest"
+    }
+    
+]
