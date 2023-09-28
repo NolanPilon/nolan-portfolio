@@ -29,54 +29,56 @@
         <div class="mb-64">
 
             <div id="summary-of-skills" class="mb-16">
-                <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Summary of Skills</h2>
+                <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Professional Skills</h2>
                 <hr class="my-4 border-primary">
                 <ul class="list-disc pl-4 text-lg sm:text-xl">
-                    <li>Adept in C++ and C# demonstrated through multiple projects provided on my portfolio</li>
-                    <li>Strong understanding of memory management and its importance in games</li>
-                    <li>Experience with Git/GitHub for version control on many projects</li>
-                    <li>Built my portfolio using HTML and CSS</li>
-                    <li>Great collaboration and communication skills</li>
-                </ul>
-            </div>
-
-            <div id="skills" class="mb-16">
-                <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Skills</h2>
-                <hr class="my-4 border-primary">
-                <ul class="list-disc pl-4 text-lg sm:text-xl">
-                    <li>C++, C#, JavaScript, HTML, CSS, Unity, Unity CG, OpenGL, SDL, Python</li>
-                    <li>Problem solving</li>
-                    <li>Time management</li>
-                    <li>Great adaptability and ability to work under pressure</li>
-                    <li>Technological literacy</li>
-                    <li>Bilingual</li>
+                    <li>Strong knowledge of computer systems, hardware, networking, and security</li>
+                    <li>Deep understanding of a variety of programming languages (C, C++, C#, Python, HTML)</li>
+                    <li>Comfortable with multiple game engines and APIs (Unity, Godot, Unreal, SDL 2.0)</li>
+                    <li>Hardworking, responsible, and reliable</li>
+                    <li>Self-motivating – can work efficiently with very little supervision</li>
+                    <li>Excellent organizational and time management skills</li>
+                    <li>Efficient problem solver with ability to multitask</li>
+                    <li>Ability to work efficiently as a team and individually</li>
+                    <li> Fluently bilingual (French & English)</li>
                 </ul>
             </div>
 
             <div id="education" class="mb-16">
-                <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Education</h2>
+                <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Education & Relevant Courses</h2>
                 <hr class="my-4 border-primary">
                 <div class="mb-8">
                     <div class="block sm:flex flex-row-reverse justify-between items-center">
                         <h4 class="mb-2 sm:mb-0 text-xl font-light text-center">2021 - May 2023</h4>
-                        <h4 class="text-2xl font-bold">Diploma Game Programming</h4>
+                        <h4 class="text-2xl font-bold">Diploma Game Programming, St. Lawrence College</h4>
                     </div>
-                    <h5>St. Lawrence College, Cornwall, Ontario</h5>
-                    <h5 class="font-bold">GPA: 3.93/4.0</h5>
                 </div>
                 <div class="mb-8">
                     <div class="block sm:flex flex-row-reverse justify-between items-center">
                         <h4 class="mb-2 sm:mb-0 text-xl font-light text-center">2016 - June 2020</h4>
-                        <h4 class="text-2xl font-bold">Highschool Diploma</h4>
+                        <h4 class="text-2xl font-bold">OSSD, École Secondaire Catholique La Citadelle, Cornwall, ON</h4>
                     </div>
-                    <h5>La Citadelle, Cornwall, Ontario</h5>
-                    <h5 class="font-bold">Ontario Scholar, Bilingual Certificate</h5>
                 </div>
             </div>
 
             <div id="work-experience" class="mb-16">
-                <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Work Experience</h2>
+                <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Relevant Skills and Experience</h2>
                 <hr class="my-4 border-primary">
+                <div class="mb-8">
+                    <div class="block sm:flex flex-row-reverse justify-between items-center">
+                        <h4 class="mb-2 sm:mb-0 text-xl font-light text-center">June 2023 - Present</h4>
+                        <h4 class="text-2xl font-bold">Drone Services of the Americas, Cornwall, ON</h4>
+                    </div>
+                    <h5>Providing drone services for Eastern Ontario</h5>
+                    <h5 class="font-bold text-xl mt-4 mb-2">Web Developer</h5>
+                    <ul class="list-disc pl-4 text-lg">
+                        <li>Proofread website content</li>
+                        <li>Update website content </li>
+                        <li>Improve search engine optimization and security</li>
+                        <li>Fix bugs and optimize website for improved performance and load times</li>
+                        <li>Discuss improvements and changes with CEO before publishing</li>
+                    </ul>
+                </div>
                 <div class="mb-8">
                     <div class="block sm:flex flex-row-reverse justify-between items-center">
                         <h4 class="mb-2 sm:mb-0 text-xl font-light text-center">2019 - Summer 2022</h4>
