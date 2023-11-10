@@ -47,5 +47,12 @@
         "description": "Bacter.IO is a game made in Unity by a friend and I for the St. Lawrence College GameJam 2023. We had under 48 hours to work on this one and we are very proud of what we made. All assets other than music are original. The project ended up winning us first place overall.",
         "source": "",
         "link": "https://npilon03.itch.io/bacterio"
+    },
+    {
+        "name": "GoldSrc Custom Map",
+        "image": "map.webp",
+        "description": "Level design is one of my favorite aspects of game design. So over the summer, I decided to learn map making for GoldSrc games such as Half-Life, Day of Defeat, and CS 1.6 using the J.A.C.k Hammer editor. I am currently working on a horror puzzle map for Half-Life.",
+        "source": "",
+        "link": ""
     }
 ]
