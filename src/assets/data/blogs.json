@@ -72,11 +72,15 @@
         }
     },
     "future": {
-        "title": "Godot RPG",
+        "title": "GoldSrc Map",
         "description": "",
-        "image": "/assets/blog/future/godotrpg.webp",
+        "image": "/assets/blog/future/map.webp",
         "posts": {
-            
+            "week-one": {
+                "title": "",
+                "description": "",
+                "image": "/assets/blog/future/map.webp"
+            }
         }
     }
 }
