@@ -71,15 +71,15 @@
             }
         }
     },
-    "future": {
+    "goldsrc": {
         "title": "GoldSrc Map",
         "description": "",
-        "image": "/assets/blog/future/map.webp",
+        "image": "/assets/blog/goldsrc/map.webp",
         "posts": {
             "week-one": {
-                "title": "",
+                "title": "GoldSrc Map Progress Check 1",
                 "description": "",
-                "image": "/assets/blog/future/map.webp"
+                "image": "/assets/blog/goldsrc/editor.webp"
             }
         }
     }
