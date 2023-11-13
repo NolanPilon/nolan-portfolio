@@ -24,14 +24,14 @@
         "name": "SDL 2.0 Frogger Game",
         "image": "frogger.webp",
         "description": "This game was made using SDL 2.0 and takes inspiration from Frogger. Your goal is to deliver packages to the other side of the factory while avoiding carts and crossing pools of acid. I learned a lot about memory management and object oriented programming while developing this game.",
-        "source": "",
+        "source": "https://github.com/NolanPilon/froggergame",
         "link": ""
     }, 
     {
         "name": "SDL 2.0 Monkey Runner",
         "image": "monkey.webp",
         "description": "This game was also made using SDL 2.0 and takes inspiration from Jetpack Joyride by Halfbrick Studios. It is an endless runner where you collect bananas and dodge spears. I learned a lot about controller inputs and more memory management with this project.",
-        "source": "",
+        "source": "https://github.com/NolanPilon/SDL2.0-MonkeyRunner",
         "link": ""
     }, 
     {
