@@ -12,6 +12,13 @@
         "description": "Untitled Cowboy Game is my most recent project in development. It is an online FPS using the Godot Engine and UPnP for networking. I am still pretty new to Godot, however, I am really enjoying it so far. I plan to implement the Steam SDK for P2P networking and Achievements",
         "source": "https://github.com/NolanPilon/cowboyshooter",
         "link": ""
+    },
+    {
+        "name": "Parry's Quest",
+        "image": "parrys-quest.webp",
+        "description": "Parry's Quest is my final project for the Game Programming course at St. Lawrence College. As a group of 5, we had 13 weeks to develop and showcase a game. The project was made in Unity and we used Git for version control. We went through the process of creating a Game Design Document (GDD) and Technical Design Document (TDD). We also held 2 standup meetings every week to stay informed and on track. The final product was showcased at the Level Up game showcase in Toronto. More information can be found in the blog section.",
+        "source": "",
+        "link": "https://npilon03.itch.io/parrys-quest"
     },  
     {
         "name": "SKAL",
@@ -48,13 +55,6 @@
         "source": "https://github.com/NolanPilon/VRGraphicsProject",
         "link": ""
     }, 
-    {
-        "name": "Parry's Quest",
-        "image": "parrys-quest.webp",
-        "description": "Parry's Quest is my final project for the Game Programming course at St. Lawrence College. As a group of 5, we had 13 weeks to develop and showcase a game. The project was made in Unity and we used Git for version control. We went through the process of creating a Game Design Document (GDD) and Technical Design Document (TDD). We also held 2 standup meetings every week to stay informed and on track. The final product was showcased at the Level Up game showcase in Toronto. More information can be found in the blog section.",
-        "source": "",
-        "link": "https://npilon03.itch.io/parrys-quest"
-    },
     {
         "name": "Bacter.IO",
         "image": "bacterio.webp",
