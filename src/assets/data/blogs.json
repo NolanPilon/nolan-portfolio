@@ -70,17 +70,5 @@
                 "image": "/assets/blog/capstone/showcasethumb.webp"
             }
         }
-    },
-    "goldsrc": {
-        "title": "GoldSrc Map",
-        "description": "",
-        "image": "/assets/blog/goldsrc/map.webp",
-        "posts": {
-            "progress-one": {
-                "title": "GoldSrc Map Progress Check 1",
-                "description": "",
-                "image": "/assets/blog/goldsrc/editor.webp"
-            }
-        }
     }
 }

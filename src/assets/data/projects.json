@@ -5,7 +5,14 @@
         "description": "Apart is a co-op puzzle game I made for the 2021 Brackey's Game Jam with the theme: Stronger Together. Your goal is to get both scientists to the end of each level and escape the locked-down facility. It was made in the Unity Game Engine in one week.",
         "source": "",
         "link": "https://npilon03.itch.io/apart"
-    }, 
+    },
+    {
+        "name": "Untitled Cowboy Game",
+        "image": "cowboy.webp",
+        "description": "Untitled Cowboy Game is my most recent project in development. It is an online FPS using the Godot Engine and UPnP for networking. I am still pretty new to Godot, however, I am really enjoying it so far. I plan to implement the Steam SDK for P2P networking and Achievements",
+        "source": "https://github.com/NolanPilon/cowboyshooter",
+        "link": ""
+    },  
     {
         "name": "SKAL",
         "image": "skal.webp",
@@ -16,7 +23,7 @@
     {
         "name": "GoldSrc Custom Map",
         "image": "map.webp",
-        "description": "Level design is one of my favorite aspects of game design. I have experience with map making and modding GoldSrc games such as Half-Life, Day of Defeat, and CS 1.6 using the J.A.C.K Hammer editor. After college, I decided to continue map making and I am currently working on a horror puzzle map for Half-Life. I plan to release it on the Steam Workshop when it is ready.",
+        "description": "Level design is one of my favorite aspects of game design. I have experience with map making and modding GoldSrc games such as Half-Life, Day of Defeat, and CS 1.6 using the J.A.C.K Hammer editor. After college, I decided to continue map making and I am currently working on a horror puzzle map for Half-Life.",
         "source": "",
         "link": ""
     }, 
