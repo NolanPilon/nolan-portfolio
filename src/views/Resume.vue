@@ -19,8 +19,8 @@
             </div>
 
             <nav class="text-center mt-16">
-                <a href="#summary-of-skills" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-300 bg-tertiary border-tertiary hover:bg-quaternary">Summary of Skills</a>
-                <a href="#skills" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-30 bg-tertiary border-tertiary hover:bg-quaternary">Skills</a>
+                <a href="#summary-of-skills" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-300 bg-tertiary border-tertiary hover:bg-quaternary">Technical Skills</a>
+                <a href="#skills" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-30 bg-tertiary border-tertiary hover:bg-quaternary">Soft Skills</a>
                 <a href="#education" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-300 bg-tertiary border-tertiary hover:bg-quaternary">Education</a>
                 <a href="#work-experience" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-300 bg-tertiary border-tertiary hover:bg-quaternary">Work Experience</a>
             </nav>
@@ -32,15 +32,9 @@
                 <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Professional Skills</h2>
                 <hr class="my-4 border-primary">
                 <ul class="list-disc pl-4 text-lg sm:text-xl">
-                    <li>Strong knowledge of computer systems, hardware, networking, and security</li>
-                    <li>Deep understanding of a variety of programming languages (C, C++, C#, Python, HTML)</li>
-                    <li>Comfortable with multiple game engines and APIs (Unity, Godot, Unreal, SDL 2.0)</li>
-                    <li>Hardworking, responsible, and reliable</li>
-                    <li>Self-motivating – can work efficiently with very little supervision</li>
-                    <li>Excellent organizational and time management skills</li>
-                    <li>Efficient problem solver with ability to multitask</li>
-                    <li>Ability to work efficiently as a team and individually</li>
-                    <li> Fluently bilingual (French & English)</li>
+                    <li>Programming Languages: C++, C#, JavaScript, Python, HTML, CSS, SQL, GDScript</li>
+                    <li>Technologies: Git, REST APIs, Unity3D, Godot, Microsoft 365, SDL 2.0, Windows OS</li>
+                    <li>Developer Tools: Visual Studio, Visual Studio Code, GitHub, MySQL</li>
                 </ul>
             </div>
 
@@ -52,6 +46,17 @@
                         <h4 class="mb-2 sm:mb-0 text-xl font-light text-center">2021 - May 2023</h4>
                         <h4 class="text-2xl font-bold">Diploma Game Programming, St. Lawrence College</h4>
                     </div>
+                    <ul class="list-disc pl-4 text-lg sm:text-xl">
+                    <li>Network Programming</li>
+                    <li>Graphics Programming</li>
+                    <li>Web Design and Database Fundamentals</li>
+                    <li>Artificial Intelligence</li>
+                    <li>Programming Fundamentals</li>
+                    <li>Game Engines and Advanced Scripting</li>
+                    <li>Object Oriented Programming</li>
+                    <li>Data Structures and Algorithms</li>
+                    <li>Technical Mathematics</li>
+                </ul>
                 </div>
                 <div class="mb-8">
                     <div class="block sm:flex flex-row-reverse justify-between items-center">

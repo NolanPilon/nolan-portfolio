@@ -7,9 +7,9 @@
         "link": "https://npilon03.itch.io/apart"
     },
     {
-        "name": "Untitled Cowboy Game",
+        "name": "Cowboy FPS",
         "image": "cowboy.webp",
-        "description": "Untitled Cowboy Game is my most recent project in development. It is an online FPS using the Godot Engine and UPnP for networking. I am still pretty new to Godot, however, I am really enjoying it so far. I plan to implement the Steam SDK for P2P networking and Achievements",
+        "description": "This is my largest project currently in development. It is an online arena shooter with a western theme built using the Godot Engine and UPnP for networking. I am still pretty new to Godot, however, I am really enjoying it so far. I plan to implement the Steam SDK for lobby matchmaking and Achievements.",
         "source": "https://github.com/NolanPilon/cowboyshooter",
         "link": ""
     },
