@@ -20,7 +20,6 @@
 
             <nav class="text-center mt-16">
                 <a href="#summary-of-skills" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-300 bg-tertiary border-tertiary hover:bg-quaternary">Technical Skills</a>
-                <a href="#skills" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-30 bg-tertiary border-tertiary hover:bg-quaternary">Soft Skills</a>
                 <a href="#education" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-300 bg-tertiary border-tertiary hover:bg-quaternary">Education</a>
                 <a href="#work-experience" class="inline-block mb-4 px-4 py-2 border rounded-lg mx-2 transition-all duration-300 bg-tertiary border-tertiary hover:bg-quaternary">Work Experience</a>
             </nav>
@@ -29,7 +28,7 @@
         <div class="mb-64">
 
             <div id="summary-of-skills" class="mb-16">
-                <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Professional Skills</h2>
+                <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Technical Skills</h2>
                 <hr class="my-4 border-primary">
                 <ul class="list-disc pl-4 text-lg sm:text-xl">
                     <li>Programming Languages: C++, C#, JavaScript, Python, HTML, CSS, SQL, GDScript</li>
