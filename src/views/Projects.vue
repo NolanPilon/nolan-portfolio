@@ -12,6 +12,7 @@ import projects from '../assets/data/projects.json';
                 :description="project.description"
                 :source="project.source"
                 :play="project.link"
+                :gameplay="project.gameplay"
             />
         </div>
     </section>
