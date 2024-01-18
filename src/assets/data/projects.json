@@ -10,9 +10,8 @@
         "name": "Cowboy FPS",
         "image": "cowboy.webp",
         "description": "This is my largest project currently in development. It is an online arena shooter with a western theme built using the Godot Engine and UPnP for networking. I am still pretty new to Godot, however, I am really enjoying it so far. I plan to implement the Steam SDK for lobby matchmaking and Achievements.",
-        "source": "",
-        "link": "",
-        "gameplay": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        "source": "https://github.com/NolanPilon/cowboyshooter",
+        "link": ""
     },
     {
         "name": "Parry's Quest",
