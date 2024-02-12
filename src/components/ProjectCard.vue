@@ -5,7 +5,8 @@ defineProps({
     image: String,
     description: String,
     source: String,
-    play: String
+    play: String,
+    video: String
 })
 
 </script>
@@ -20,6 +21,7 @@ defineProps({
             </div>
             <a v-if="play" :href="play" target="_blank" class="bg-red-500 border border-red-600 font-bold text-white px-4 py-2 rounded-lg block text-center mt-4 hover:bg-red-600">Play</a>
             <a v-else-if="source" :href="source" target="_blank" class="bg-gray-500 border border-gray-600 font-bold text-white px-4 py-2 rounded-lg block text-center mt-4 hover:bg-gray-600">Source Code</a>
+            <a v-else-if="video" :href="video" target="_blank" class="bg-gray-500 border border-gray-600 font-bold text-white px-4 py-2 rounded-lg block text-center mt-4 hover:bg-gray-600">Gameplay</a>
         </div>
     </div>
 </template>
