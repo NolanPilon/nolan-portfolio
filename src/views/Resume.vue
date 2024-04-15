@@ -31,9 +31,9 @@
                 <h2 class="text-5xl text-center sm:text-left sm:text-6xl font-black mb-2 pt-8">Technical Skills</h2>
                 <hr class="my-4 border-primary">
                 <ul class="list-disc pl-4 text-lg sm:text-xl">
-                    <li>Programming Languages: C++, C#, JavaScript, Python, HTML, CSS, SQL, GDScript</li>
-                    <li>Technologies: Git, REST APIs, Unity3D, Godot, Microsoft 365, SDL 2.0, Windows OS</li>
-                    <li>Developer Tools: Visual Studio, Visual Studio Code, GitHub, MySQL</li>
+                    <li>Programming Languages: C++, C#, Java, GDScript</li>
+                    <li>Technologies: Unity3D, OpenXR, Godot, SDL 2.0</li>
+                    <li>Developer Tools: Visual Studio, Git, Jira, Confluence</li>
                 </ul>
             </div>
 
@@ -115,7 +115,4 @@
         </div>
 
     </div>
-
-    
-
 </template>
